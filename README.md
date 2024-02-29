@@ -1,1 +1,1 @@
-# pencil-sketching-ibrahim
+### 👋 Hi, my name is Muhammad Ibrahim Qasmi! In this notebook, I've created an app using Streamlit and OpenCV to convert images into pencil sketches. 🖼️✏️ Check out the app here and dive into the world of pencil sketching! 😊🚀
